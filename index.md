@@ -1,3 +1,7 @@
 ---
-title: Welcome to my blog!
+title: Scott Taylor
 ---
+## Work experience
+-where does this go
+### Education
+--here
